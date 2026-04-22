@@ -1,0 +1,182 @@
+{
+  "version": 2,
+  "exportedAt": "2026-04-22T00:18:52.605Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Paul ",
+      "lname": "Bridgland",
+      "pronouns": null,
+      "name": null,
+      "title": "Connect South   ",
+      "biz": null,
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/509V3Nf5/Untitled-design-2026-04-22T011212-653.png",
+      "shareImg": "https://i.postimg.cc/509V3Nf5/Untitled-design-2026-04-22T011212-653.png",
+      "bookMarkImg": "https://i.postimg.cc/509V3Nf5/Untitled-design-2026-04-22T011212-653.png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#FA3303",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#FA3402",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#FA3402",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": {
+        "file": "photo.jpeg",
+        "ext": "jpeg",
+        "mime": "image/jpeg"
+      },
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "07799 888388",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "paul@connectsurrey.com",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447799888388",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://connectsouth.uk/",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "location",
+        "placeholder": "https://goo.gl/maps/location",
+        "value": "https://www.google.com/maps/place/ConnectSurrey+Ltd/@51.2494757,-0.5345586,674m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4875d9fc059e2539:0x7e4858e70dfd740d!8m2!3d51.2494757!4d-0.5319837!16s%2Fg%2F11c1q0gbj2?entry=ttu&g_ep=EgoyMDI2MDQwOC4wIKXMDSoASAFQAw%3D%3D",
+        "label": "Your Maps Location URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/connectsurrey/",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": " https://www.linkedin.com/in/paulbridgland/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      },
+      {
+        "name": "facebook",
+        "placeholder": "https://facebook.com/UserName",
+        "value": "https://www.facebook.com/connectsurrey",
+        "color": "#1877f2",
+        "label": "Your Facebook URL"
+      },
+      {
+        "name": "twitter",
+        "placeholder": "https://twitter.com/UserName",
+        "value": "https://x.com/connectsurrey",
+        "color": "#000",
+        "label": "Your Twitter URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Business in Surrey Website",
+            "link": " https://businessinsurrey.co.uk",
+            "contentType": "customButton"
+          },
+          {
+            "label": "Review us on Google!",
+            "link": " https://g.page/r/CQ10_Q3nWEh-EBM/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "Untitled Design - 1 - Edited.png",
+            "title": "Untitled Design - 1 - Edited",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/untitled_design_-_1_-_edited.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
